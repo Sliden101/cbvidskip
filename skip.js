@@ -8,6 +8,7 @@
 // @match        https://apclassroom.collegeboard.org/*/home*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=https://apstudents.collegeboard.org/
 // @grant unsafeWindow
+// @license MIT
 // ==/UserScript==
 
 // Big credit to: https://gist.github.com/EastArctica/1e4cb97f8b5a4f4568a779f755c37618
